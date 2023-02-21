@@ -2,7 +2,7 @@
 sidebar_position: 20
 ---
 
-<img src="/img/City/city1.png"/>
+<img src="../img/City/city1.png"/>
 City Interface.
 
 ## Add City
