@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "التالي",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Stats Report": {
+    "message": "التقارير الإحصائية",
+    "description": "The label for category Stats Report in sidebar tutorialSidebar"
+  }
+}
