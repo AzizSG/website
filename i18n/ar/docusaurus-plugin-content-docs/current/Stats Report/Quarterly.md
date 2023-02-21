@@ -1,11 +1,11 @@
 # إحصائيات أرباع السنة
 
-<img src="/img/Quarterly/quart1.png"/>
+<img src="../../img/Quarterly/quart1.png"/>
 <br/>
 واجهة المستخدم لصفحة احصائيات أرباع السنة
 
 ## تقرير إحصائيات الركوب ربع السنوي
-<img src="/img/Quarterly/quart2.png"/>
+<img src="../../img/Quarterly/quart2.png"/>
 <br/>
 
 **ساعات الرحلات في كل ربع سنة**: يوضح هذا التلخيص ساعات الرحلة في كل ربع سنة
@@ -14,21 +14,21 @@
 **عدد الرحلات في كل ربع سنة**: هنا ستظهر لك مجموع الرحلات في كل ربع سنة
 
 ### الدخل في كل ربع سنة
-<img src="/img/Quarterly/quart4.png"/>
+<img src="../../img/Quarterly/quart4.png"/>
 هذه الرسمة تظهر الإيرادات في كل ربع سنة
 
 ## التقارير الإحصائية للمستخدمين
-<img src="/img/Quarterly/quart5.png"/>
+<img src="../../img/Quarterly/quart5.png"/>
 <br/>
 في إحصاءات العملاء ، يمكنك مشاهدة عدد العملاء الذين قاموا بالتسجيل في التطبيق كل ربع سنة
 
 ## إحصائيات عن المركبات كل ربع سنة
-<img src="/img/Quarterly/quart6.png"/>
+<img src="../../img/Quarterly/quart6.png"/>
 <br/>
 هنا سترى مجموع المركبات الفعالة في كل ربع سنة
 
 ## إحصائيات عن حزم المحافظ
-<img src="/img/Quarterly/quart7.png"/><br/>
+<img src="../../img/Quarterly/quart7.png"/><br/>
 
 **مشتريات الحزم:** يوضح عدد مشتريات الحزم في كل ربع سنة
 <br/>
@@ -36,11 +36,11 @@
 **إيرادات الحزم:** يظهر لك مجموع إيرادات الحزم في كل ربع سنة
 
 ## إحصائيات المنطقة
-<img src="/img/Quarterly/quart8.png"/>
+<img src="../../img/Quarterly/quart8.png"/>
 <br/>
 إحصائيات المنطقة تظهر لك المناطق النشطة في كل ربع سنة وأيضا الرسم البياني يبين إيرادات المنطقة في كل ربع سنة
 
 ## إحصائيات المعاملات
-<img src="/img/Quarterly/quart9.png"/>
+<img src="../../img/Quarterly/quart9.png"/>
 <br/>
 هنا سترى إحصائيات المعاملات في كل ربع سنة

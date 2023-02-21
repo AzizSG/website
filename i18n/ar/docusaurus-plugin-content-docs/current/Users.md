@@ -4,38 +4,38 @@ sidebar_position: 9
 # المستخدمين
 
 
-<img src='/img/user/users6.png'/>
+<img src='../img/user/users6.png'/>
 <br/>
 واجهة المستخدم لصفحة المستخدمين
 
 ## التاريخ والوقت
-<img src='/img/user/users2.png'/>
+<img src='../img/user/users2.png'/>
 <br/>
 هنا يظهر تاريخ ووقت إضافة المستخدم
 
 ## البريد الاكتروني
-<img src='/img/user/users3.png'/>
+<img src='../img/user/users3.png'/>
 <br/>
 هنا يظهر البريد الإلكتروني للمستخدم
 
 ## الدور الوظيفي
-<img src='/img/user/users4.png'/>
+<img src='../img/user/users4.png'/>
 <br/>
 هنا يظهر انواع ادوار الوظيف
 
 ## الموقع الفرعي
-<img src='/img/user/users5.png'/>
+<img src='../img/user/users5.png'/>
 <br/>
 هنا يظهر موقع العميل(المدينة)
 
 ## التفاصيل
-<img src='/img/user/users1.png'/> <br/>
+<img src='../img/user/users1.png'/> <br/>
 لتفاصيل اكثر اضغط زر التفاصيل
 
-<img src='/img/user/User99.png'/> <br/>
+<img src='../img/user/User99.png'/> <br/>
 عند النقر فوق زر التفاصيل ، ستظهر هذه الصفحة
 
-<img src='/img/user/user100.png'/> <br/>
+<img src='../img/user/user100.png'/> <br/>
 عند النقر فوق "تعديل ملف تعريف المستخدم" في الصورة السابقة ستظهر صفحة أخرى ويمكنك تعديل المزيد من التفاصيل(عنوان البريد الاكتروني,الرقم السري,الدور) 
 
 

@@ -3,23 +3,23 @@ sidebar_position: 2
 ---
 # لوحة المعلومات
 
-<img src='/img/Dashboard/dash1.png'/>
+<img src='../img/Dashboard/dash1.png'/>
 <br/>
 واجهة المستخدم لصفحة لوحة المعلومات
 
 ## المنطقة اللتي تم اختيارها
-<img src='/img/Dashboard/dash5.png'/>
+<img src='../img/Dashboard/dash5.png'/>
 <br/>
 هنا يمكنك تحديد أي منطقة تريد أن ترى معلومات حول منطقة معينة إما اليوم أو أمس أو شهر.
 
 ## الرحلة
-<img src='/img/Dashboard/dash4.png'/>
+<img src='../img/Dashboard/dash4.png'/>
 <br/>
 هنا يظهر عدد اجمالي الرحلات
 
 
 ## الدخل
-<img src='/img/Dashboard/dash3.png'/>
+<img src='../img/Dashboard/dash3.png'/>
 <br/>
 
 <!-- - مجموع الأرباح:** يظهر إجمالي الارباح من الرحلات**
@@ -53,7 +53,7 @@ sidebar_position: 2
 
 ## المركبات 
 
-<img src='/img/Dashboard/dash2.png'/>
+<img src='../img/Dashboard/dash2.png'/>
 
 1. هنا يمكنك رؤية نوع السيارة (سكوتر ، دراجة كهربائية ، إلخ ..).
 1. كم عدد المركبات الموجودة حاليا.
@@ -69,27 +69,27 @@ sidebar_position: 2
 
 
 ## أهم 5 مناطق مزدحمة
-<img src='/img/Dashboard/dash8.png'/><br/>
+<img src='../img/Dashboard/dash8.png'/><br/>
 يعرض هذا الرسم البياني أعلى 5 المناطق المشغولة أو المناطق المزدحمة
 
 ## أكثر الحزم المستخدمة
-<img src='/img/Dashboard/dash9.png'/><br/>
+<img src='../img/Dashboard/dash9.png'/><br/>
 في هذه الرسمة سترى ما هي أكثر الحزمة التي تم استخدامها من قبل العملاء
 
 ## ساعات الدروة
-<img src='/img/Dashboard/dash10.png'/><br/>
+<img src='../img/Dashboard/dash10.png'/><br/>
 يوضح هذا الرسم البياني ساعات الذروة بترتيب تنازلي
 
 ## أكثر المركبات المستخدمة
-<img src='/img/Dashboard/dash12.png'/><br/>
+<img src='../img/Dashboard/dash12.png'/><br/>
 هذه الرسمة تظهر لك ما هي أنواع المركبات التي يستخدمونها العملاء بكثرة
 
 ## شركات المركبات الأعلى إستخداما
-<img src='/img/Dashboard/dash11.png'/><br/>
+<img src='../img/Dashboard/dash11.png'/><br/>
 هنا سترى أعلى الشركات المصنعة للمركبات التي تم استخدامها بكثرة من قبل العملاء
 
 
 
 ## أعلى 5 مناطق إيرادات 
-<img src='/img/Dashboard/dash13.png'/><br/>
+<img src='../img/Dashboard/dash13.png'/><br/>
 في هذه الرسمة سترى أعلى خمس مناطق حققت إيرادات

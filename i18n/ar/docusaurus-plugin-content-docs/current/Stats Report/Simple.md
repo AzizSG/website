@@ -1,122 +1,122 @@
 # الإحصائيات البسيطة
 
-<img src="/img/Simple/stats-simple.png"/>
+<img src="../../img/Simple/stats-simple.png"/>
 <br/>
 واجهة المستخدم لصفحة الإحصائيات البسيطة
 
 ## تصفية للتاريخ
-<img src="/img/Simple/simple1.png"/>
+<img src="../../img/Simple/simple1.png"/>
 <br/>
 هنا يمكنك عمل اختيار تاريخ محدد أو عمل فلتر
 
 ## تقارير عن الرحلات
-<img src="/img/Simple/simple2.png"/>
+<img src="../../img/Simple/simple2.png"/>
 <br/>
 إذا نقرت على خانة الرحلات ، فستظهر لك هذه الصفحة
 
 ### تقييم الرحلات
-<img src="/img/Simple/simple11.png"/>
+<img src="../../img/Simple/simple11.png"/>
 <br/>
 يعرض هذا الرسم البياني تقييم الرحلات. عدد الرحلات في المحور ص التقييم في المحور س
 
 ### إيرادات الشركة
-<img src="/img/Simple/simple4.png"/>
+<img src="../../img/Simple/simple4.png"/>
 <br/>
 في هذه الرمسة سترى الإيرادات لكل شركة
 
 ### رحلات الشركات المصنعة
-<img src="/img/Simple/simple5.png"/>
+<img src="../../img/Simple/simple5.png"/>
 <br/>
 هذه الإحصائية توضح عدد الرحلات لكل شركة مصنعة للمركبة
 
 ## احصائيات عن العملاء
-<img src="/img/Simple/simple12.png"/>
+<img src="../../img/Simple/simple12.png"/>
 <br/>
 هنا بإمكانك رؤية إحصائيات عن عدد العملاء في التطبيق
 
 ### المنصة
-<img src="/img/Simple/simple9.png"/>
+<img src="../../img/Simple/simple9.png"/>
 <br/>
 يشير هذا الرسم البياني إلى عدد الرحلات لكل منصة 
 
 
 
 ## إحصائيات عن المركبات
-<img src="/img/Simple/simple13.png"/>
+<img src="../../img/Simple/simple13.png"/>
 <br/>
 إذا قمت بالنقر فوق خانة المركبات ، فستظهر لك هذه الصفحة
 
 ## إحصائيات عن الحزم في المحافظ
-<img src="/img/Simple/simple14.png"/>
+<img src="../../img/Simple/simple14.png"/>
 <br/>
 إذا قمت بالنقر فوق حانة حزمة المحفظة ، فستظهر لك هذه الصفحة
 
 ### الحزم
-<img src="/img/Simple/simple30.png"/>
+<img src="../../img/Simple/simple30.png"/>
 <br/>
 في هذا الرسم البياني ستظهر لك ما هي أكثر الحزم اللي تم استخدامها من قبل العملاء
 
 ### معدل الشراء
-<img src="/img/Simple/simple15.png"/>
+<img src="../../img/Simple/simple15.png"/>
 <br/>
 هنا يمكنك أن ترى معدل الحزم التي تم شرائها
 
 ### إيرادات الحزم
-<img src="/img/Simple/simple16.png"/>
+<img src="../../img/Simple/simple16.png"/>
 <br/>
 يشير هذا الرسم إلى إيرادات كل حزمة
 
 
 ### الحزم الأكثر تحقيق للإيرادات
-<img src="/img/Simple/simple17.png"/>
+<img src="../../img/Simple/simple17.png"/>
 <br/>
 
 يخبرك هذا الرسم عن معدل الحزم التي حققت إيرادات عالية
 
 ## التقارير الإحصائية للمنطقة
-<img src="/img/Simple/simple18.png"/>
+<img src="../../img/Simple/simple18.png"/>
 <br/>
 يوضح هذا الرسم البياني عدد الرحلات في كل منطقة
 
 
 ### المناطق المكتظة بالرحلات
-<img src="/img/Simple/simple19.png"/>
+<img src="../../img/Simple/simple19.png"/>
 <br/>
 يوضح هذا الرسم البياني أكثر المناطق التي تم دفع مبالغ فيها بدون العلاة أو البونس
 
 
 ### نسبة الإيرادات لكل منطقة من غير الأضافات
-<img src="/img/Simple/simple20.png"/>
+<img src="../../img/Simple/simple20.png"/>
 <br/>
 يوضح هذا الرسم البياني نسبة الإيرادات لكل منطقة من غير العلاوة أو البونس
 
 
 ### عمر المنطقة
-<img src="/img/Simple/simple22.png"/>
+<img src="../../img/Simple/simple22.png"/>
 <br/>
 هنا يمكنك أن ترى متى تم إنشاء المنطقة
 
 ### إيرادات المنطقة
-<img src="/img/Simple/simple33.png"/>
+<img src="../../img/Simple/simple33.png"/>
 <br/>
 يوضح هذا الرسم البياني عائدات كل منطقة
 
 ## التقارير الإحصائية للمعاملات
-<img src="/img/Simple/simple23.png"/>
+<img src="../../img/Simple/simple23.png"/>
 <br/>
 في إحصائيات المعاملات ، يمكنك رؤية ملخص لإيرادات المحفظة ، وإيرادات المكافآت ، والديون ، وتعبئة العملاء ، وما إلى ذلك ...
 
 ### عدد المعاملات
-<img src="/img/Simple/simple24.png"/>
+<img src="../../img/Simple/simple24.png"/>
 <br/>
 يعرض هذا الرسم البياني عددًا محسوبًا من المعاملات لكل وضع معاملة
 
 ### قيمة التحويل
-<img src="/img/Simple/simple25.png"/>
+<img src="../../img/Simple/simple25.png"/>
 <br/>
 يوضح هذا الرسم البياني مقدار المعاملات لكل وضع معاملة
 
 ### طرق الدفع
-<img src="/img/Simple/simple26.png"/>
+<img src="../../img/Simple/simple26.png"/>
 <br/>
 توجد العديد من طرق الدفع مثل الدفع نقدا أو عن طريق البطائق الإئتمانية أو عن طريق ابل باي. وهذا الرسم البيان يوضح كم عدد المشتريات التي تم دفعها نقدا أو بالبطائق الإئتمانية
