@@ -11,17 +11,17 @@ const config = {
   favicon: 'img/spiders-logo.png',
 
   // Set the production url of your site here
-  url: 'https://spiders.github.io',
+  url: 'https://AzizSG.github.io',
   // trailingSlash: false,
   trailingSlash: false,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/spiders/',
+  baseUrl: '/AzizSG/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'AzizSG', // Usually your GitHub org/user name.
-  projectName: 'spiders', // Usually your repo name.
+  projectName: 'AzizSG', // Usually your repo name.
   deploymentBranch: "main",
   
 
